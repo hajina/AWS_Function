@@ -2,7 +2,7 @@
 
 ### 애플리케이션 아키텍처
 
-![Lambda_EC2_Stop](/AWS_Function/Image/Lambda_EC2_Stop.PNG)
+![Lambda_EC2_Stop](/Image/Lambda_EC2_Stop.PNG)
 
 EC2 서버의 상태를 확인(running)하여 정한 시간(Cron 이용)에 Stopped.
 이용한 기능 : IAM(정책, 역할), Lambda, CloudWatch
